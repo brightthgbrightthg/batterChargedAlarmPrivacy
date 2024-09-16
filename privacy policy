@@ -4,18 +4,63 @@ Privacy Policy
 app on google play Store
 
 
-The above app does not collect any data of users.
-There is no login screen.
 
-Functinality of the app is as follows.
+BattteryFullAlarm: Privacy policy
 
-User has to plug in the charger and open the app.
-App keeps track of the battery info, while charging.
-When the charging level of the battery equals or crosses the default setting ( i.e., 99%)
-App starts giving alarm.
-User may want to disconnect the charger to avoid over charging.
-Alarm stops when chager is disconnected or app is closed.
-Recommended to close the app also, by clicking close button.
+Welcome to the Battery Full Alarm3 app for Android!
+
+This is an open source Android app developed.
+As an avid Android user myself, I take privacy very seriously.
+I know how frustrating it is when apps collect your data without your knowledge.
+
+No Data collected by the app
+
+I hereby state, to the best of my knowledge and belief, 
+that I have not programmed this app to collect any personally identifiable information. 
+
+User can use the app in a completely anonymous fashion,
+which means login is not required for using the app. 
+Nor user is required to enter his personal details like email, phone number etc. 
+The app does not ask for any permission to be granted by user, 
+although the following permission is implicitly needed by the app.
+DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+
+The above is required for the app to query the battery status and comply with latest versions of android,
+without which app does not know the status of the battery and hence, 
+it cannot give you the alarm when battery is fully charged. 
+The very purpose of the app is to alert the user while charging and the charging level reaches 99% or more.
+Thus the app helps user to prevent overcharging.
+Further, our app does not collect any data stored on the device,
+and hence the question of sharing user data with third parties does not arise at all.
+The app functions, even without internet connection, which is suggestive of protecting user privacy.
+
+After using the app it is recommended to close the app also, 
+after disconnecting the charger.
+This can be done simply by clicking/touching close button on the screen.
+
+No analytics software is present in the app either.
+Explanation of permissions requested in the app
+
+The list of permissions required by the app needs to be discussed.
+The following permission is implicitly needed by the app.
+
+DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+
+The above is required for the app to query the battery status and comply with latest versions of android, 
+without which app does not know the status of the battery and hence,
+it cannot give you the alarm when battery is fully charged.
+
+If you find any security vulnerability that has been inadvertently caused by me,
+or have any question regarding how the app protects your privacy, 
+please send me an email, and I will surely try to fix it/help you.
+
+Yours sincerely,
+VSReddy.
+Visakhapatnam, India.
+brightthgbrightthg@gmail.com
+
+
+
 
 regards
 Developer team
