@@ -25,7 +25,7 @@ The app does not ask for any permission to be granted by user,
 although the following permission is implicitly needed by the app.
 DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 
-The above is required for the app to query the battery status,
+The above is required for the app to query the battery status and comply with latest versions of android,
 without which app does not know the status of the battery and hence, 
 it cannot give you the alarm when battery is fully charged. 
 The very purpose of the app is to alert the user while charging and the charging level reaches 99% or more.
@@ -46,7 +46,7 @@ The following permission is implicitly needed by the app.
 
 DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 
-The above is required for the app to query the battery status, 
+The above is required for the app to query the battery status and comply with latest versions of android, 
 without which app does not know the status of the battery and hence,
 it cannot give you the alarm when battery is fully charged.
 
